@@ -2,6 +2,12 @@
 
 A 30-day weather forecast app for Tallinn with both CLI and web interfaces. Real weather data for the first 16 days from Open-Meteo API, extended with realistic forecast data to 30 days.
 
+## 🌐 Live Demo
+
+**[Open the Weather App →](https://prihhan.github.io/Tallinn-Weather/)**
+
+Click the link above to instantly access the app in your browser - no installation needed!
+
 ## Features
 
 - 🌦️ **Real Weather Data** - Uses free Open-Meteo API (no auth required)
